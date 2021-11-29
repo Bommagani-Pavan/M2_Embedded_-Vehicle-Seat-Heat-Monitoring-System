@@ -1,1 +1,1 @@
-# M2_Project-Type
+# M2_Embedded_Project-Type
