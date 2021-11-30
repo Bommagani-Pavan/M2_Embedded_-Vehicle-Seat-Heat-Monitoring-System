@@ -1,1 +1,1 @@
-# M2_Embedded_Project-Type
+# M2_Embedded_ Vehicle Seat Heat Monitoring System
